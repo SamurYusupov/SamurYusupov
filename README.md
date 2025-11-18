@@ -10,7 +10,7 @@
 
 ## 🛠️ Технологии и навыки
 
-- rgb(🐍Python), 🗃️SQL  
+- 🐍Python , 🗃️SQL  
 - **BI и визуализация**: 📊Power BI, Tableau, DataLens  
 - **Анализ данных**: 🥋Excel (продвинутый)
 - **Другое**: MS Office, Git
